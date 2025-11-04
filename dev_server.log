@@ -1,0 +1,5 @@
+
+> birthday-timer@0.0.0 dev
+> ./node_modules/.bin/vite
+
+sh: 1: ./node_modules/.bin/vite: not found
